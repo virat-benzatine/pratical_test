@@ -1,0 +1,262 @@
+{
+  "page":1,
+  "per_page":15
+  ,"total":30,
+  "total_pages":2,
+  "data":[
+    {
+      "id":1,
+      "email":"george.bluth@reqres.in",
+      "first_name":"George",
+      "last_name":"Bluth",
+      "city": "Los Angeles",
+      "profession": "Actor",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1001/500/500",
+          "image2":"https://picsum.photos/id/1002/500/500",
+          "image3":"https://picsum.photos/id/1003/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":2,
+      "email":"maria.williams@reqres.in",
+      "first_name":"Maria",
+      "last_name":"Williams",
+      "city": "London",
+      "profession": "Teacher",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1004/500/500",
+          "image2":"https://picsum.photos/id/1005/500/500",
+          "image3":"https://picsum.photos/id/1006/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":3,
+      "email":"ava.weaver@reqres.in",
+      "first_name":"Ava",
+      "last_name":"Weaver",
+      "city": "New York",
+      "profession": "Developer",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1007/500/500",
+          "image2":"https://picsum.photos/id/1008/500/500",
+          "image3":"https://picsum.photos/id/1009/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":4,
+      "email":"jennifer.wong@reqres.in",
+      "first_name":"Jennifer",
+      "last_name":"Wong",
+      "city": "Toronto",
+      "profession": "Scientist",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1010/500/500",
+          "image2":"https://picsum.photos/id/1011/500/500",
+          "image3":"https://picsum.photos/id/1012/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":5,
+      "email":"alex.morris@reqres.in",
+      "first_name":"Alex",
+      "last_name":"Morris",
+      "city": "Paris",
+      "profession": "Dentist",
+      "avatar":[
+       {
+          "image1":"https://picsum.photos/id/1013/500/500",
+          "image2":"https://picsum.photos/id/1014/500/500",
+          "image3":"https://picsum.photos/id/1015/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":6,
+      "email":"nick.ramos@reqres.in",
+      "first_name":"Nick",
+      "last_name":"Ramos",
+      "city": "Amsterdarm",
+      "profession": "Architect",
+      "avatar":[
+       {
+          "image1":"https://picsum.photos/id/1016/500/500",
+          "image2":"https://picsum.photos/id/1017/500/500",
+          "image3":"https://picsum.photos/id/1018/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":7,
+      "email":"james.bond@reqres.in",
+      "first_name":"James",
+      "last_name":"Bond",
+      "city": "Paris",
+      "profession": "Chef",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1019/500/500",
+          "image2":"https://picsum.photos/id/1020/500/500",
+          "image3":"https://picsum.photos/id/1021/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":8,
+      "email":"justin.dover@reqres.in",
+      "first_name":"Justin",
+      "last_name":"Dover",
+      "city": "New Jersey",
+      "profession": "Accountant",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1022/500/500",
+          "image2":"https://picsum.photos/id/1023/500/500",
+          "image3":"https://picsum.photos/id/1024/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":9,
+      "email":"shelly.minstra@reqres.in",
+      "first_name":"Shelly",
+      "last_name":"Minstra",
+      "city": "Los Angeles",
+      "profession": "Lawyer",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1025/500/500",
+          "image2":"https://picsum.photos/id/1026/500/500",
+          "image3":"https://picsum.photos/id/1027/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":10,
+      "email":"pristine.ateer@reqres.in",
+      "first_name":"Pristine",
+      "last_name":"Ateer",
+      "city": "Los Angeles",
+      "profession": "Cashier",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1028/500/500",
+          "image2":"https://picsum.photos/id/1029/500/500",
+          "image3":"https://picsum.photos/id/1030/500/500"
+          
+        }
+      ]
+    },
+
+   {
+      "id":11,
+      "email":"avi.bluth@reqres.in",
+      "first_name":"Avi",
+      "last_name":"Bluth",
+      "city": "Zurich",
+      "profession": "Designer",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1001/500/500",
+          "image2":"https://picsum.photos/id/1002/500/500",
+          "image3":"https://picsum.photos/id/1003/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":12,
+      "email":"adam.biding@reqres.in",
+      "first_name":"Adam",
+      "last_name":"Biding",
+      "city": "Kitchner",
+      "profession": "Baker",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1004/500/500",
+          "image2":"https://picsum.photos/id/1005/500/500",
+          "image3":"https://picsum.photos/id/1006/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":13,
+      "email":"john.ryder@reqres.in",
+      "first_name":"John",
+      "last_name":"Ryder",
+      "city": "Berlin",
+      "profession": "Dancer",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1007/500/500",
+          "image2":"https://picsum.photos/id/1008/500/500",
+          "image3":"https://picsum.photos/id/1009/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":14,
+      "email":"mia.grater@reqres.in",
+      "first_name":"Mia",
+      "last_name":"Grater",
+      "city": "Las Vegas",
+      "profession": "Actress",
+      "avatar":[
+        {
+          "image1":"https://picsum.photos/id/1010/500/500",
+          "image2":"https://picsum.photos/id/1011/500/500",
+          "image3":"https://picsum.photos/id/1012/500/500"
+          
+        }
+      ]
+    },
+
+    {
+      "id":15,
+      "email":"shawn.bluth@reqres.in",
+      "first_name":"Shawn",
+      "last_name":"Bluth",
+      "city": "Dallas",
+      "profession": "Fire Fighter",
+      "avatar":[
+       {
+          "image1":"https://picsum.photos/id/1013/500/500",
+          "image2":"https://picsum.photos/id/1014/500/500",
+          "image3":"https://picsum.photos/id/1015/500/500"
+          
+        }
+      ]
+    },
+  ]
+}
